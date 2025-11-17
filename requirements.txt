@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+dash
+flask
+requests
+spacy
+matplotlib
